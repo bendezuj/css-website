@@ -26,7 +26,7 @@ h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   color: #11999E;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 h3{
   color: #11999E;
@@ -87,7 +87,7 @@ a:hover{
 }
 .contact-message{
   width: 40%;
-  margin: 40px auto 0 auto;
+  margin: 20px auto 0 auto;
 }
 .bottom-container{
   vertical-align: middle;
@@ -97,7 +97,7 @@ a:hover{
   margin-top: 100px;
 }
 .email-icon{
-  width: 5%;
+  width: 4%;
 }
 .social{
   color:  #11999E;
