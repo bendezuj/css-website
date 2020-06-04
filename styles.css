@@ -26,7 +26,7 @@ h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   color: #11999E;
-  padding-bottom: 10px;
+  padding-bottom: 8px;
 }
 h3{
   color: #11999E;
@@ -97,7 +97,7 @@ a:hover{
   margin-top: 100px;
 }
 .email-icon{
-  width: 4%;
+  width: 5%;
 }
 .social{
   color:  #11999E;
